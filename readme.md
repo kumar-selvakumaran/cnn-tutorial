@@ -1,3 +1,3 @@
-<h1><span style ="font-family:charcoal;font-size:32px;color:Blue;;"><b>   Visual Guide to Convolution Neural Networks (CNNs)&nbsp; <span style="color:Tomato;" >FOR EVERYONE&nbsp;</span></b></span></h1>
+![image](https://github.com/kumar-selvakumaran/cnn-tutorial/assets/62794224/b10a85dd-3d56-45d7-9bec-ab26fd2a731f)
 
-<img src="https://thumbs.gfycat.com/HelpfulScratchyArcticseal.webp">
+<a href="https://www.kaggle.com/code/kumarselvakumaran/cnn-a-newbie-friendly-guide-with-visual-knowhow">link to notebook</a>
